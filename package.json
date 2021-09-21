@@ -1,0 +1,15 @@
+{
+  "name": "@moritz.schramm/api-client",
+  "version": "0.0.1",
+  "description": "A small fetch abstraction to access apis",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neatoro/api-client.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neatoro/api-client/issues"
+  },
+  "homepage": "https://github.com/Neatoro/api-client#readme"
+}
